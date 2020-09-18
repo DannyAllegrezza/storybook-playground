@@ -1,0 +1,15 @@
+.button {
+  background-image: linear-gradient(to bottom, #222831, #000000);
+  border-radius: 8px;
+  color: #dfa612;
+  border: 2px solid #181c22;
+  margin-left: 10px;
+  margin-right: 10px;
+  letter-spacing: 1px;
+  padding: 10px 20px;
+  font-size: 1.6rem;
+  box-shadow: 0 0 10px var(--subtle);
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.15s cubic-bezier(0, 1.8, 1, 1.8);
+}
